@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F824B23-668C-4A9F-AF6E-3F89DABC11C7}|Lab 6.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F824B23-668C-4A9F-AF6E-3F89DABC11C7}|Lab 6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F824B23-668C-4A9F-AF6E-3F89DABC11C7}|Lab 6.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 6\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F824B23-668C-4A9F-AF6E-3F89DABC11C7}|Lab 6.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 6\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 6\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:31:40.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:24:37.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

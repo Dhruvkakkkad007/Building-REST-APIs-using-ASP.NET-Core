@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lab_6
+{
+     class Student
+    {
+       public int id;
+        public string name;
+        public int age;
+
+
+        public Student(int id ,string name,int age)
+        {
+            this.id = id;
+            this.name = name;
+            this.age = age;
+        }
+    }
+}
