@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|d:\\sem 5\\building-rest-apis-using-asp.net-core\\lab 7\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4B8A5F9-D958-7DD0-825F-43DD70A2E127}|Lab 7.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,48 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T07:22:50.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubjectController.cs",
+              "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Controllers\\SubjectController.cs*",
+              "RelativeToolTip": "Controllers\\SubjectController.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T07:20:00.064Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBYAAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:06:53.16Z"
+              "WhenOpened": "2026-06-30T08:06:53.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T07:52:02.61Z"
+              "WhenOpened": "2026-06-30T07:52:02.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAcwCsAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T07:40:31.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\SEM 5\\Building-REST-APIs-using-ASP.NET-Core\\Lab 7\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -75,7 +111,8 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T07:39:34.312Z"
+              "WhenOpened": "2026-06-30T07:39:34.312Z",
+              "EditorCaption": ""
             }
           ]
         }

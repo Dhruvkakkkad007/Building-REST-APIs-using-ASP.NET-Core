@@ -24,7 +24,8 @@ namespace Lab_7
                 app.MapScalarApiReference();
             }
 
-            
+            //app.MapGet('/',() => Results.Redirect("/scalar"));
+
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

@@ -8,7 +8,7 @@ namespace Lab_7.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {  
-        private static readonly List<Student> stu =
+        private static readonly List<Student> stu =  //static = only one time use -> initialize Constructor
         [
             new Student{id = 1,name ="Meet"},
              new Student{id = 2,name ="Dhruv"}
